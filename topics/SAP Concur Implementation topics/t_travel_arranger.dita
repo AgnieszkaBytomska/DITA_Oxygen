@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_travel_arranger">
+    <title>Travel Arranger</title>
+    <shortdesc/>
+    <taskbody>
+        <context>If you are a travel arranger and you want to change the profile of one of your
+            users:</context>
+        <steps>
+            <step>
+                <cmd>Click Profile.</cmd>
+            </step>
+            <step>
+                <cmd>In the Administer for another user field, type the first few letters of the
+                    user's name.</cmd>
+            </step>
+            <step>
+                <cmd>Select the desired user from the search results.</cmd>
+            </step>
+            <step>
+                <cmd>Click Apply.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

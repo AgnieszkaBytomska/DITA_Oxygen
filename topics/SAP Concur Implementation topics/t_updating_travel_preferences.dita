@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_updating_travel_preferences">
+    <title>Updating Travel Preferences</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Scroll down to the Travel Preferences section. Select your discount travel
+                    rates/fare classes, and specify your Air, Hotel, and Car Rental Preferences.
+                    Under Frequent-Traveler Program, click Add a Program to add your frequent flyer
+                    programs</cmd>
+            </step>
+            <step>
+                <cmd>In the TSA Secure Flight section, verify the required Gender and Date of Birth
+                    fields. </cmd>
+            </step>
+            <step>
+                <cmd>In the Assistants and Travel Arrangers section, click Add an Assistant to
+                    assign someone to book travel for you, or to assign them as your primary
+                    assistant for travel. You can search for and select the individual(s) within
+                    your organization that you would like to give permission to perform travel
+                    functions for you. </cmd>
+            </step>
+            <step>
+                <cmd>After you have completed your Travel Profile updates, click Save</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

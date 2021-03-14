@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_my_first_task">
+    <title>My first task</title>
+    <shortdesc>You can setup oXygen to always show full tags when you open a topic in Author
+        view.</shortdesc>
+    <taskbody>
+        <context>This option is available from the <menucascade>
+                <uicontrol>Options</uicontrol>
+                <uicontrol>Preferences</uicontrol>
+            </menucascade> menu.</context>
+        <steps>
+            <step importance="optional">
+                <cmd>Go to <menucascade>
+                        <uicontrol>Editor</uicontrol>
+                        <uicontrol>Edit Mode</uicontrol>
+                    </menucascade></cmd>
+            </step>
+            <step importance="required">
+                <cmd>Select <menucascade>
+                        <uicontrol>Editor</uicontrol>
+                        <uicontrol>Edit Mode</uicontrol>
+                    </menucascade></cmd>
+                <choices id="choices_d51_4bm_y4b">
+                    <choice>Full tags with atributes</choice>
+                    <choice>Full tags </choice>
+                </choices>
+                <stepresult/>
+            </step>
+        </steps>
+        <result id="result_bzj_m1m_y4b"/>
+        <example id="example_ayd_31m_y4b">
+            <fig id="fig_m4p_2dm_y4b">
+                <title>title</title>
+                <image href="../images/20201010_131415.png" id="image_pk1_b2n_y4b"/>
+                <ol id="ol_bsf_ndm_y4b">
+                    <li/>
+                    <li/>
+                    <li/>
+                </ol>
+            </fig>
+        </example>
+    </taskbody>
+</task>

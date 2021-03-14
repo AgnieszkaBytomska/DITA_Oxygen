@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_submitting_a_travel_request">
+    <title>Submitting a Travel Request</title>
+    <taskbody>
+        <context>
+            <p>To create a new request, click one of the following options:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click Requests > New Request</cmd>
+            </step>
+            <step>
+                <cmd>Start a Request</cmd>
+            </step>
+            <step>
+                <cmd>New > Start a Request (if approver)</cmd>
+            </step>
+            <step>
+                <cmd>In the Request Header, complete all required fields (red bar)<image
+                        href="../../images/s4.png" id="image_i5b_brn_y4b" scalefit="yes"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

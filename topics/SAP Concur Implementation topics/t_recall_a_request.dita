@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_recall_a_request">
+    <title>Recall a Request</title>
+    <taskbody>
+        <context>
+            <p>You can recall a request to make changes if it has not been approved.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click <menucascade>
+                        <uicontrol>Requests > Manage Requests ></uicontrol>
+                    </menucascade> select the <uicontrol>Request Name</uicontrol> .</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Recall.</uicontrol></cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Yes</uicontrol> to confirm</cmd>
+            </step>
+            <step>
+                <cmd>Make the necessary changes, and then <uicontrol>Submit Request</uicontrol>.
+                </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

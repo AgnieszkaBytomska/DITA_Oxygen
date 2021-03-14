@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_submitting_a_travel_request">
+    <title>Submitting a Travel Request</title>
+    <shortdesc>Prior to your business trip, submit a travel request for approval. An approved travel
+        request is required for an expense report.</shortdesc>
+    <conbody>
+        <note id="note_msw_qqn_y4b"> Your profile settings should be completely set up prior to
+            submitting a request and booking travel.</note>
+    </conbody>
+</concept>

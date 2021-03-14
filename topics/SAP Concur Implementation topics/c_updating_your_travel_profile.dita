@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_updating_your_travel_profile">
+    <title>Updating Your Travel Profile</title>
+    <shortdesc>Before you use Concur's travel application for the first time, update your Travel
+        profile. Even if you make no changes, you must save your profile before you can book a trip
+        in Travel.</shortdesc>
+    <conbody>
+        <note id="note_z2s_m4n_y4b">Some companies have custom fields on this page. Check with your
+            agency or Travel administrator if you need information on custom profile fields. </note>
+        <p>Use the Travel profile options to set or change your personal Travel preferences and
+            settings. They include:</p>
+        <ul id="ul_hdl_q4n_y4b">
+            <li>Credit card</li>
+            <li>Email options</li>
+            <li>E-Receipts</li>
+            <li>Language</li>
+            <li>Password</li>
+            <li>Personal preferences</li>
+            <li>Register for Concur</li>
+            <li>Travel preferences (air, hotel, car rental, rail preferences)</li>
+        </ul>
+    </conbody>
+</concept>

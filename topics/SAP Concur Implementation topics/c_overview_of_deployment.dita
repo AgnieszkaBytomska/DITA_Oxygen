@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_overview_of_deployment">
+    <title>Overview of Deployment </title>
+    <shortdesc>Configuration of a single environment of the Concur Expense Service for the
+        deployment to <b>3</b> countries</shortdesc>
+    <conbody>
+        <table id="table_r2f_xjn_y4b">
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry><b>Countries to be Deployed</b></entry>
+                        <entry><b>Estimated Number of Users</b></entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry><b>Poland</b></entry>
+                        <entry>200/250</entry>
+                    </row>
+                    <row>
+                        <entry><b>South Africa</b></entry>
+                        <entry>50</entry>
+                    </row>
+                    <row>
+                        <entry><b>China</b></entry>
+                        <entry>200/400</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <example id="example_hxm_ctn_y4b">Example: Two-Level list:<p>Your company may have different
+                departments in each company region. In order to make sure the correct departments
+                show for the regions, you can configure a multiple level list using the Region and
+                Department fields.</p><p>The Region field would be the first or top-level list
+                field. When you select Department as the second level field, you're specifying that
+                each list item in the Region field will contain a list of valid
+            departments.</p></example>
+    </conbody>
+</concept>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_access">
+    <title>Access</title>
+    <taskbody>
+        <context>To access the profile information:</context>
+        <steps>
+            <step>
+                <cmd>Click Profile > Profile Settings. The Profile Options page appears.</cmd>
+            </step>
+            <step>
+                <cmd>Select the desired option on the left side of the page. <image
+                        href="../../images/s3.png" id="image_kml_jpn_y4b" scalefit="yes"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

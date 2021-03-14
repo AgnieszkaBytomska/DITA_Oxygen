@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_my_first_concept">
+    <title>My second concept</title>
+    <shortdesc/>
+    <conbody>
+        <p><ph>phase</ph></p>
+        <p>paragraph 2</p>
+        <p><ph>my firs <keyword>tparagraph</keyword></ph></p>
+        <section id="section_bff_wvl_y4b">
+            <title>Section title</title>
+            <p>ggdfgdfgfdg</p>
+            <ol id="ol_pc3_lwl_y4b">
+                <li/>
+                <li/>
+                <li/>
+                <li/>
+                <li/>
+            </ol>
+            <dl id="dl_hxd_nwl_y4b">
+                <dlentry>
+                    <dt>Idea 1</dt>
+                    <dd>dt Definition term, dd-definine description</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Idea 2</dt>
+                    <dd/>
+                </dlentry>
+            </dl>
+            <codeblock id="codeblock_yyl_vwl_y4b"> &lt;dl id="dl_hxd_nwl_y4b">
+                &lt;dlentry>
+                    &lt;dt>Idea 1&lt;/dt>
+                    &lt;dd>dt Definition term, dd-definine description&lt;/dd>
+                &lt;/dlentry>
+                &lt;dlentry>
+                    &lt;dt>Idea 2&lt;/dt>
+                    &lt;dd/>
+                &lt;/dlentry>
+            &lt;/dl></codeblock>
+        </section>
+        <section id="section_r5b_d2m_y4b">
+            <title>Note example</title>
+            <note id="note_ob2_22m_y4b" type="caution"> note example rnfndjgghsj</note>
+            <note type="note" id="note_etv_n2m_y4b"> note example rnfndjgghsj</note>
+        </section>
+    </conbody>
+</concept>

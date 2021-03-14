@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_system_design_technical_overview">
+    <title>System Design Technical Overview</title>
+    <shortdesc>Below is an example of a typical system design technical overview – <b>please note
+            this is intended for information purposes only and may not represent the exact technical
+            overview for this implementation</b></shortdesc>
+    <conbody>
+        <image href="../../images/s2.png" id="image_vcz_snn_y4b" scalefit="yes"/>
+        <note id="note_qcn_tnn_y4b"> Concur Shared Technical Services (STS) will discuss the
+            technical overview separately</note>
+    </conbody>
+</concept>

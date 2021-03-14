@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_design_review_timeline">
+    <title>Design Review Timeline</title>
+    <shortdesc>Following the design session Concur will provide the Customer with version 1 of the
+        Expense Design Document. This first version will contain a number of Action items for the
+        Customer to confirm/clarify. The design review timeline is expected to take <b>approximately
+            2 weeks</b>.</shortdesc>
+    <conbody>
+        <p>Below is a typical design review timeline</p>
+        <image href="../../images/s1.png" placement="inline" id="image_tqn_tmn_y4b" scalefit="yes"/>
+    </conbody>
+</concept>

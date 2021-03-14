@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_email_reminders_and_email_notifications">
+    <title>Email Reminders and Email Notifications</title>
+    <shortdesc>Email Reminders is a tool used to set up email messages to be sent on an interval
+        basis to remind employees to perform certain actions, such as:</shortdesc>
+    <conbody>
+        <ul id="ul_ncn_4sn_y4b">
+            <li><b>Handing in Overdue Receipts</b>: A company may want to enforce that an employee
+                not be reimbursed until receipts have been received for an expense report, either
+                the physical receipts or imaged receipts. Receipts not received may also hold up
+                future expense report reimbursements. </li>
+            <li><b>Overdue Approvals</b>: A company may want to enforce managers to approve expense
+                reports within a certain amount of time as defined by the company.</li>
+            <li><b>Using Company Card Transactions in an expense report</b>: A company may want to
+                enforce that company card transactions must be added to an expense report within a
+                certain timeframe.</li>
+        </ul>
+        <p>Email reminders send the emails to the individual based on the time intervals set within
+            the configuration. For example reminders are typically triggered after a given number of
+            days based on when a condition has been met. Reminders can also be triggered/repeat at
+            regular intervals (daily or every x number of days). Where irregular intervals are
+            needed separate rules need to be configured.</p>
+    </conbody>
+</concept>

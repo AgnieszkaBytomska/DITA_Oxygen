@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="Untitled">
+    <title>Document Purpose</title>
+    <shortdesc>This Concur Implementation Design serves as the overview design specification for the
+        implementation of Concur Expense Service.</shortdesc>
+    <taskbody>
+        <context> In particular, this document <ul id="ul_acd_y3n_y4b">
+                <li>Provides an overview and glossary of the functional areas included with the
+                    Concur Expense implementation </li>
+                <li>Defines additional information relating to the system configuration requirements </li>
+                <li>Will note any functionality that will not be utilized</li>
+            </ul></context>
+        <context id="context_u3b_jjn_y4b">
+            <p>This document represents a summary of the Concur Expense system configuration and may
+                not contain the latest configuration information. For the absolute current
+                configuration state, refer to the Concur Expense application itself.</p>
+        </context>
+    </taskbody>
+</task>

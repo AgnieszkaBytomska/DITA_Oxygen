@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_recall_a_request">
+    <title>Cancel a Request</title>
+    <taskbody>
+        <steps>
+            <step class="- topic/li task/step " status="unchanged" importance="required">
+                <cmd>To cancel a request, click Cancel Request</cmd>
+            </step>
+            <step>
+                <cmd>Enter a Comment and then click OK. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
